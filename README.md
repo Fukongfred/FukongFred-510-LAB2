@@ -17,7 +17,7 @@ streamlit run app.py
 - **Data Visualization**: The application visualizes the filtered penguin data using Plotly charts, including scatter plots and histograms, providing interactive visualizations for better understanding the data.
 
 ## Questions
-- How to build a top bar that can be selected and the interface will navigate to the contents u selected?
+- In the actual development of UI interfaces and interactions, is it necessary to use a platform such as streamlit? For example, if I want to design some UI components and user interactions that are not available in streamlit, how do I need to do it?
 
 ## TODO
 1. Link to your Streamlit cloud web app for data analysis and visualization
